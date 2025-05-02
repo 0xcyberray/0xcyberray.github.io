@@ -1,2 +1,2 @@
-# cyberray
-I love Cybersecurity so much that I want to be very good at it. Okay, cool. Read my blog and give me a follow. 
+👋 Hi, I’m @0xcyberray
+👀 I love everything cybersecurity related. 
