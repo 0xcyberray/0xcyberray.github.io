@@ -2,7 +2,8 @@ title: 0xcyberray:~#
 description: I scan, I map, I exploit .... Ghost is in your shell!!!
 show_downloads: false
 show_repo: false
-theme: jekyll-theme-hacker
+theme: jekyll-minimal
+
 
 gems:
   - jekyll-sitemap
