@@ -1,23 +1,53 @@
 ---
 layout: default
-title: SOB SECURITY
+title: Olufela Osideko - Cybersecurity Enthusiast
 ---
 
-# **SOB SECURITY**
+# **Olufela Osideko's Cybersecurity Journey**
 
-**Main | TryHackMe | HackTheBox | CTFs | Red Team | Malware Development | Reverse Engineering | Exploitation | Vulnerability Rants**
-
----
-
-## 👋 Welcome to SOB SECURITY — Where Curiosity Breeds Mastery
-
-In a world teetering between chaos and control, we walk the fine line of digital shadows, uncovering truths that others shy away from. Welcome, explorer. If you've made it here, you're not lost — you're exactly where you need to be.
-
-This space is a reflection of **Olufela Osideko**'s passion for cybersecurity — from CTFs to red teaming, from vulnerability research to real-world exploitation. It’s not just about breaking things — it’s about **understanding how they work**, and building from the cracks.
+**Welcome to my personal blog!**
 
 ---
 
-## 🧠 Who Am I?
+## 🌟 About Me
+
+I’m **Olufela Osideko**, a passionate and driven **cybersecurity professional** with a focus on **ethical hacking**, **red teaming**, and **vulnerability research**. My mission is to break down complex security concepts and share practical knowledge with others who are just as passionate about **offensive security**.
+
+As a woman in cybersecurity, I’m dedicated to helping others break into the field and showcasing that there’s always more to learn, no matter how experienced you are.
+
+I specialize in:
+
+- **Red Teaming**
+- **Penetration Testing (Pentesting)**
+- **Malware Analysis and Research**
+- **Exploit Development**
+- **CTF (Capture the Flag) Challenges**
+
+---
+
+## 🚀 What I Do
+
+I’m always on the lookout for new **security challenges**, whether they come from **CTFs**, **security competitions**, or real-world penetration testing. My toolbox includes:
+
+- **Kali Linux** for penetration testing
+- **Metasploit** for exploit development
+- **Wireshark** for network analysis
+- **Ghidra** for reverse engineering
+- **Burp Suite** for web application security
+
+### Focus Areas:
+
+- **Red Team Operations**
+- **Vulnerability Research**
+- **Exploitation**
+- **CTF Writeups & Challenges**
+- **Malware Development and Analysis**
+
+---
+
+## 🧩 My Projects
+
+I’m always diving into new projects to further my skills and grow as a cybersecurity professional. Some of my ongoing efforts include:
 
 ```bash
-olufela@system:~$ cat whoami.txt
+olufela@security-lab:~$ tree ./projects
