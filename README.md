@@ -1,2 +1,2 @@
-👋 Hi, I’m @0xcyberray
+👋 Hi, I’m Cyberray
 👀 I love everything cybersecurity related. 
